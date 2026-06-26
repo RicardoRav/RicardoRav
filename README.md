@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRav&show_icons=true&theme=tokyonight)
 
@@ -32,23 +32,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RicardoRav&theme=tokyonight)
 
 ---
-
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RicardoRav&theme=tokyonight"/>
-
-</p>
-
-## 🏆 Troféus
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RicardoRav&theme=tokyonight&margin-w=15&margin-h=15&column=7"/>
-
-</p>
 
 ## 📈 Gráfico de Contribuições
 
