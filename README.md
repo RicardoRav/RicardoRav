@@ -27,7 +27,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRav&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=RicardoRav&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRav&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RicardoRav&theme=tokyonight)
 
