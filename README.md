@@ -21,28 +21,6 @@
 
 </div>
 
- ## 👨‍💻 
-
-```java
-public class RicardoBardela {
-
-    String nome = "Ricardo Bardela";
-
-    String[] linguagens = {
-        "Java",
-        "JavaScript",
-        "Python",
-        "C#",
-        "PHP",
-        "SQL"
-    };
-
-    String[] tecnologias = {
-        "Spring Boot",
-        "Node.js",
-        "React",
-        "Docker"
-    };
 
 ## 📊 Estatísticas
 
