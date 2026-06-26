@@ -21,18 +21,18 @@
 
 </div>
 
+---
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoRav&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoBardela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRav&layout=compact&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoBardela&layout=compact&langs_count=8&theme=tokyonight"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=RicardoRav&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=RicardoRav&theme=tokyonight"/>
+---
 
-</div>
 
 ## 🔥 Sequência de Contribuições
 
